@@ -22,5 +22,9 @@ At Ormuco, we want to optimize every bits of software we write. Your goal is to 
 
 
 Question A wasnt sure what they wanted so wrote a line intercept script for x1 and x2 based on user inputs, did not have time to debug.
+
+
 Question B pretty straight forward
-Question C  was not sure what it was asking focused on a and b when i couldnt no find info. 
+
+
+Question C  was not sure what it was asking focused on a and b when i could not find info. 
